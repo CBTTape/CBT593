@@ -1,0 +1,10 @@
+2023-08-06 05:26:07.536465 - Initialized conversion of CBT593
+2023-08-06 05:26:08.290872 - Received CBT.V505.FILE593.PDS from FILE593.XMI 
+2023-08-06 05:26:08.293714 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE593.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:26:08.294783 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE593.PDS, moved to PDS/$PDSLOAD
+2023-08-06 05:26:08.295770 - Found @FILE593.txt (text/plain) in CBT.V505.FILE593.PDS, moved to PDS/@FILE593
+2023-08-06 05:26:08.297020 - Found ASMG27A.txt (text/plain) in CBT.V505.FILE593.PDS, moved to PDS/ASMG27A
+2023-08-06 05:26:08.298074 - Found INSTJCL.txt (text/plain) in CBT.V505.FILE593.PDS, moved to PDS/INSTJCL
+2023-08-06 05:26:08.299113 - Found LKEDIN.txt (text/plain) in CBT.V505.FILE593.PDS, moved to PDS/LKEDIN
+2023-08-06 05:26:08.299125 - Found MACLIB.bin containing application/octet-stream, moved to PDS/MACLIB
+2023-08-06 05:26:08.302549 - Found SOURCE.txt (text/plain) in CBT.V505.FILE593.PDS, moved to PDS/SOURCE
